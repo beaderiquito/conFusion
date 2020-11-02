@@ -59,3 +59,16 @@ body {
     left: 0;
     min-height:  300px;
 }
+
+.btn-group {
+    padding-left: 15px;
+}
+
+.btn-secondary {
+    margin-right: 2px;
+    margin-left: 145px;
+}
+
+.btn-primary {
+    margin-left: 2px;
+}
